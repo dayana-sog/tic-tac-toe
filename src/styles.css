@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  box-sizing: border-box;
+} 
+
+body {
+  font: 400 34px 'Press Start 2P', cursive;
+  -webkit-font-smoothig: antialiased;
+  background: url('https://images.hdqwalls.com/download/retro-big-sunset-5k-9t-2560x1440.jpg') no-repeat fixed center;
+}
+
+button {
+  background: none;
+  border-radius: 13px;
+  border: 1px solid #ddd;
+  cursor: pointer;
+  font: 400 14px 'Press Start 2P', cursive;
+}
